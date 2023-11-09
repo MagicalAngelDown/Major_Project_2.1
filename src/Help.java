@@ -10,7 +10,7 @@ public class Help {
         return ("This is a software to help list all of your medications in one spot that you can never forget what dosage, how many refills you have left,\n" +
                 " the name and spelling of the medication as well! You can make edits to your medication lists, such as adding, editing the medication or removing the medication all together!\n" +
                 " In order to do this, put the medication name you are looking for into the console, then choose what you would like to do! \n" +
-                " Future Updates: Adding a way to upload list to make a PDF file, and be able to send it to your provider. \n");
+                " Future Updates: Adding a way to upload list to make a PDF file, and be able to send it to your provider.\n");
 
         //Future Update ideas:
         // Idea Scanned Barcode to input information on medicine
