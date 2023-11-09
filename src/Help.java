@@ -1,10 +1,4 @@
-// **********************************************************************************
-// Title: Medicine list helper
-// Author: Brooke Lee
-// Course Section: CMIS201-SEC# (Seidel) Fall 2023
-// File: Help.java
-// Description:  This is a file that explains the program.
-// **********************************************************************************
+
 public class Help {
     public static String about(){
         return ("This is a software to help list all of your medications in one spot that you can never forget what dosage, how many refills you have left,\n" +
