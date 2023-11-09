@@ -1,0 +1,47 @@
+Medicine:
+medName = Ibuprofen
+brandName = Motrin
+tablets = 60
+dosage = 200
+refills = 3
+acquired = Over the Counter
+
+Medicine:
+medName = Fexofenadine
+brandName = Allegra
+tablets = 60
+dosage = 180
+refills = 0
+acquired = Prescription
+
+Medicine:
+medName = Melatonin
+brandName = None
+tablets = 70
+dosage = 10
+refills = 0
+acquired = Over the Counter
+
+Medicine:
+medName = Montelukast
+brandName = Singular
+tablets = 90
+dosage = 10
+refills = 3
+acquired = Prescription
+
+Medicine:
+medName = Eliquis
+brandName = n/a
+tablets = 30
+dosage = 150
+refills = 0
+acquired = Prescription
+
+Medicine:
+medName = Bupropion HCL
+brandName = Wellbutrin
+tablets = 90
+dosage = 300
+refills = 1
+acquired = Prescription
