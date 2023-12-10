@@ -38,10 +38,3 @@ dosage = 150
 refills = 0
 acquired = Prescription
 
-Medicine:
-medName = Bupropion HCL
-brandName = Wellbutrin
-tablets = 90
-dosage = 300
-refills = 1
-acquired = Prescription
