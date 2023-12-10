@@ -12,5 +12,4 @@ public class Help {
         // Cancel button/option
         //Make it for easy access to put the lists into a PDF and send to Doctor's office
     }
-
 }
